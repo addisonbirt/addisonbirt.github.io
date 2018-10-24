@@ -28,8 +28,8 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.8",
-    "uniqCompNum": 165,
-    "versionPublish": "4.8.2",
+    "uniqCompNum": 170,
+    "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
@@ -54,7 +54,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -155,8 +155,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/EYX-CAtm2Zo?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=EYX-CAtm2Zo&feature=youtu.be",
+              "url": "https://www.youtube.com/embed/9Ub8N3o4PeQ?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=9Ub8N3o4PeQ&feature=youtu.be",
               "width": 1280,
               "height": 720
             },
@@ -315,7 +315,7 @@
             "paddingBottom": "1",
             "bgColor": "#2e2e2e"
           },
-          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;LET US KNOW WHAT YOU THINK ABOUT US ON FACEBOOK AND TWITER&nbsp;</p>",
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;LET US KNOW WHAT YOU THINK ABOUT US ON FACEBOOK AND TWITTER&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -497,10 +497,10 @@
           },
           "title1": "RACHEL",
           "subtitle1": "INFORMATION",
-          "caption1": "Our multi-award winning Rachel is a semi-soft unpasteurised goat cheese with a smooth texture and sweet, medium flavour. As she matures, Rachel is washed regularly in a brine solution – this gives the artisan cheese a dusky rind, and the occasional orange and yellow spots. Rachel is the namesake of Pete’s friend who, much like the cheese, is sweet, curvy and just a little bit nutty!&nbsp;",
+          "caption1": "Our most well-known and multi award winning cheese.\n<br>Rachel is not your typical Goat’s cheese. It is a semi hard washed rind cheese\n<br>with a delicate yet moreish sweet medium flavour. \n<br>The cheese is named after a friend of mine\n<br>(like the cheese she is sweet, curvy and slightly nutty).\n<br>A must on any cheese counter!\n<br>Best Goat’s Cheese at The Guild of Fine Food World Cheese Awards 2017.\n<br>Made with unpasteurised milk and vegetarian rennet.&nbsp;<br>",
           "title2": "KATHERINE",
           "subtitle2": "INFORMATION",
-          "caption2": "A raw milk version of Rachel, made with animal rennet and washed in Somerset Cider Brandy. Katherine is an artisan goat cheese with a slightly softer texture than Rachel. She has a stronger, more complex flavour and ‘farmy’ undertones.<br><b><br></b>",
+          "caption2": "This is a raw milk goat’s cheese made using natural rennet, matured for around 2 months and washed in Somerset Cider Brandy. \n<br>Katherine is firmer in texture than its cousin Rachel, with more complex savoury flavours.\n<br>Made with raw milk and animal rennet.&nbsp;<br>",
           "title3": "TRICKLE",
           "subtitle3": "INFORMATION",
           "caption3": "&nbsp;A delicately small, goat cheese with a natural white rind and smooth texture. Starting its life with a fresh, citrus flavour with hints of lemon, Trickle gradually evolves to gain a mild taste reminiscent of single cream. Weighing in at around 60g a piece, it is the perfect unpasteurised artisan cheese for individual portions. Available in boxes containing six Trickles.<b><br></b>",
@@ -610,16 +610,16 @@
           },
           "title1": "WHITE WOOD\n",
           "subtitle1": "INFORMATION",
-          "caption1": "As its name suggests, White Wood is a log shaped goat cheese, with a beautifully white, bloomy rind. This unpasteurised artisanal goat cheese has a soft texture and lactic flavour – divine!<b><br></b>",
+          "caption1": "This lactic goat’s cheese log has a soft, white, silky, bloomy rind, providing a hint of mushroom flavours to come through the tangy,\tsmooth paste.\nMade with unpasteurised milk and vegetarian rennet.&nbsp;<br>",
           "title2": "EVE",
           "subtitle2": "INFORMATION",
-          "caption2": "An evolution of our Little Lilly, the alluring Eve is a meltingly soft goat cheese, washed in Somerset Cider Brandy and beautifully wrapped up in a vine leaf. Mild and sweet when young, aging to a nutty, slightly yeasty, flavoured artisan goat cheese.<br>",
+          "caption2": "This is a soft goat’s cheese washed in Somerset Cider Brandy\n<br>and wrapped in a vine leaf, which helps to maintain\n<br>a softer paste and develop nuttier flavours.\n<br>Made with unpasteurised milk and vegetarian rennet.&nbsp;<br>",
           "title3": "TOR",
           "subtitle3": "INFORMATION",
-          "caption3": "Created in tribute to the ancient Glastonbury Tor in Somerset, Tor is an unusual, pyramid-shaped unpasteurised cheese. With an ash coating and geotrichum rind, this soft goat cheese has a very smooth close texture. Its unique flavour is fresh and lemony with a hint of earthiness.<br>",
+          "caption3": "This fresh lactic goat’s cheese is made in a pyramid shape\n<br>with a geotrichum rind and a dusting of charcoal.\n<br>It has a lemony flavour with your typical\n<br>goats’ cheese ‘tang’and very smooth close texture.\n<br>A stand out choice for any cheeseboard!\n<br>Made with unpasteurised milk and vegetarian rennet.&nbsp;<br>",
           "title4": "DRIFTWOOD",
           "subtitle4": "INFORMATION",
-          "caption4": "Driftwood is a fresh, lactic, log-shaped goat cheese with a distinctive lemon flavour and a silky smooth, thick texture. This vivid ash coated goat log, with a natural rind, slices perfectly into neat discs of deliciousness to enhance any cheeseboard or salad.&nbsp;<br><br><b><br></b>",
+          "caption4": "This ash coated goats cheese log has a geotrichum rind\n<br>and a soft, creamy texture.\n<br>With citrus notes and earthy undertones.\n<br>This cheese is one of our best sellers,\n<br>great for slicing, cooking and simply eating.\n<br>Made with unpasteurised milk and vegetarian rennet.&nbsp;<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -647,7 +647,7 @@
             "showButtons": true,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "columns": "2",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -685,10 +685,13 @@
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-242-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
@@ -717,13 +720,13 @@
           },
           "title1": "WHITE HEART\r",
           "subtitle1": "INFORMATION",
-          "caption1": "<p>Originally made as a Valentine’s Day present, this adorable heart-shaped goat cheese is the perfect gift for your cheese-loving inamorata. Tasting as good as it looks, White Heart is a mild and crumbly unpasteurised cheese, similar in style to White Nancy, however its texture is slightly softer and its flavour mildly creamier. Serve with raspberries, for a real artisan treat.</p>",
+          "caption1": "<p>This cheese is a heart shaped version of White Nancy. \n<br>The original two were made as a Valentines present. \n<br>Made with unpasteurised milk and vegetarian rennet.&nbsp;<br></p>",
           "title2": "WHITE NANCY / LONG BOW\r",
           "subtitle2": "INFORMATION",
           "caption2": "A mild and crumbly unpasteurised goat cheese with a white bloomy rind. White Nancy has a semi-soft texture and a slightly sweet, fresh citrus taste. As the cheese matures and softens the flavour becomes richer and creamier. One of our earliest creations, the cheese itself is named after a local to home landmark in the village of Bollington, Cheshire near where Pete “grew up” and “worked” for many years before he moved to the South West.<br><br>LONG BOW – A log version of White Nancy. The same delicious, mild and crumbly goat’s milk cheese, lovingly made in the heart of Somerset.<b><br></b>",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title3": "GOAT CURD",
+          "subtitle3": "INFORMATION",
+          "caption3": "This is an extremely versatile, light, clean and fresh flavoured\n<br>cheese becoming increasingly popular in the catering trade\n<br>for its many uses.&nbsp;<br>",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -735,7 +738,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page16.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -756,7 +759,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -1006,10 +1009,10 @@
           },
           "title1": "BAGBOROUGH BRIE\n",
           "subtitle1": "INFORMATION",
-          "caption1": "Created using Guernsey milk, Bagborough Brie sports a rich golden colour. Mild and creamy – just how brie should be! Umptuous and ripe, Bagborough oozes deliciously onto crusty bread.<b><br></b>",
+          "caption1": "This cheese is an excellent example of a mild and creamy brie,\nmade from Guernsey Cow's milk. \n<br>Made with pasteurised milk and vegetarian rennet.&nbsp;<br>",
           "title2": "MORN DEW\r",
           "subtitle2": "INFORMATION",
-          "caption2": "Much like Bagorough Brie, Morn Dew is made using Guernsey milk which gives the artisan cheese a golden colouring and a delicately sweet, creamy flavour. Morn Dew is a washed rind pasteurised cheese – this results in a fruitier taste; a slightly red, soft and sticky rind; a distinctive smell; and a soft, spongy texture.<b><br></b>",
+          "caption2": "Made from Guernsey Cow's milk providing a stunning\ngolden colour! <br>This cheese is mild with a delicate creamy flavour and a soft,\nspongy texture.\n<br>Made with pasteurised milk and vegetarian rennet.&nbsp;<br>",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -1040,7 +1043,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -1188,7 +1191,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "SHEEP CHEESES",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -1296,13 +1299,13 @@
           },
           "title1": "PAVÉ COBBLE\n",
           "subtitle1": "INFORMATION",
-          "caption1": "Supreme Champion of 2017\n<br>A lactic style Ewes milk. This cheese is ashed and in the shape of a flat-topped pyramid. It has a creamy slightly citrus flavour and should show some surface ripening unless it is allowed to dry as it ages.\n<br>The appearance should also change from a wrinkled silvery grey when young to a thicker more natural mold rind dominated by greens and blues. The cheese has been named Pavé Cobble by Roger a keen cyclist, as a homage to the difficult and famous cobbled cycling stages. Such as the Paris Roubaix.<b><br></b>",
+          "caption1": "Moulded into a truncated pyramid, the paste is springy and soft,\n<br>becoming meltingly creamy with age.\n<br>With a light coating of ash, the geotrichum and glaucum moulds grow\n<br>on the rind developing silvery grey rind at first,\n<br>then becoming dominated by blues and greens.\t\n<br>On first taste, notes of sweet cream emerge, followed by nutty\n<br>flavours and a slight lanolin gaminess that deepens the complexity\n<br>with the age of the cheese.\n<br>The cheese is named Pavé Cobble by Roger (Director) a keen cyclist,\n<br>as a homage to the difficult and famous cobbled cycling stages.\n<br>Supreme Champion of the British Cheese Awards 2017.\n<br>Made with unpasteurised milk and vegetarian rennet.&nbsp;<br>",
           "title2": "LITTLE SHE\r",
           "subtitle2": "INFORMATION",
-          "caption2": "Created using sheeps’ milk sourced from just down the road from White Lake’s home at Bagborough Farm, Little She is a soft, white, Brie-style cheese. Unpasteurised, artisan ewes’ milk cheese that simply melts in the mouth.&nbsp;<b><br></b>",
+          "caption2": "This is a soft white cheese with a bloomy rind. Made in the style of a brie or Camembert\nthis cheese will soften as it ripens. This cheese has a mild flavour becoming more pronounced and the rind can become more colourful as it ages.\n<br>Made using unpasteurised milk and vegetarian rennet&nbsp;<br>",
           "title3": "SHEEP RUSTLER",
           "subtitle3": "INFORMATION",
-          "caption3": "Since we launched Sheep Rustler in 2015, it has taken the cheese world by storm.  Created using the same recipe as our award-winning, Rachel, Sheep Rustler is made using thermised ewes’ milk, then aged for around three months. The result is a semi-hard cheese with a medium, mellow flavour that is slightly nutty with a hint of caramel. Our cheesemaker, Russell, made the first batch and so Sheep Rustler got its name. <b><br></b>",
+          "caption3": "A Ewes milk version of our well known Rachel cheese. \n<br>This is a Semi hard Cheese aged to around 3 months old. \n<br>This cheese has a colourful orange/brown rind. \n<br>This cheese has a medium, mellow, nutty flavour\n<br>with hints of caramel.\n<br>Supreme Champion of the British Cheese Awards 2018.\n<br>Made with unpasteurised milk and vegetarian rennet&nbsp;<br>",
           "title4": "SHEEP RUSTLER\n",
           "subtitle4": "INFORMATION",
           "caption4": "Since we launched Sheep Rustler in 2015, it has taken the cheese world by storm.&nbsp; Created using the same recipe as our award-winning, Rachel, Sheep Rustler is made using thermised ewes’ milk, then aged for around three months. The result is a semi-hard cheese with a medium, mellow flavour that is slightly nutty with a hint of caramel. Our cheesemaker, Russell, made the first batch and so Sheep Rustler got its name.&nbsp;<b><br></b>",
@@ -1330,7 +1333,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -1478,7 +1481,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Stockists",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1549,7 +1552,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -1716,7 +1719,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Contact Us",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1795,7 +1798,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -1943,7 +1946,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "About Us",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1952,7 +1955,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -2279,7 +2282,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -2559,7 +2562,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "RACHEL",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -2588,7 +2591,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -2849,7 +2852,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -2959,15 +2962,15 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-813-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-813-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -3081,7 +3084,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "TRICKLE",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -3110,7 +3113,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -3215,24 +3218,24 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1487632009275-500x335.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1487632009275-500x335-500x335.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whitelakecheese-28-2000x1339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whitelakecheese-28-2000x1339-800x536.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whitelakecheese-27-2000x1339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whitelakecheese-27-2000x1339-800x536.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -3274,7 +3277,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b style=\"font-size: 1.07rem;\">Product Information&nbsp;</b><br></p><p>Milk : Goat \r</p><p>Unpateurised : Yes (Thermised) \r</p><p>Rennet : Vegetarian \r</p><p>Style : Soft \r</p><p>Weight : Approx 60g \r</p><p>Origin: Somerset</p>",
+          "text": "<p><b style=\"font-size: 1.07rem;\">Product Information&nbsp;</b><br></p><p>Milk : Goat \n</p><p>Unpateurised : Yes (Thermised) \n</p><p>Rennet : Vegetarian \n</p><p>Style : Soft \n</p><p>Weight : Approx 60g \n</p><p>Origin: Somerset</p>",
           "_tags": [
             "Theme"
           ],
@@ -3342,7 +3345,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "LILLY / LITTLE LILLY",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -3371,7 +3374,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -3476,48 +3479,48 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1487632009275-500x335.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1487632009275-500x335-500x335.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whitelakecheese-59-2000x1339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whitelakecheese-59-2000x1339-800x536.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/whitelakecheese-6-2000x1339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whitelakecheese-6-2000x1339-800x536.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/whitelakecheese-18-2000x1339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whitelakecheese-18-2000x1339-800x536.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-941-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-941-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670-800x536.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669-800x535.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/rachels-1000x714.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rachels-1000x714-800x543.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
               }
             ]
           },
@@ -3535,7 +3538,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b style=\"font-size: 1.07rem;\">Product Information&nbsp;</b><br></p><p>Milk : Goat \r</p><p>Unpateurised : Yes (Thermised) \r</p><p>Rennet : Vegetarian \r</p><p>Style : Soft \r</p><p>Weight : 125g / 230g \r</p><p>Origin: Somerset</p>",
+          "text": "<p><b style=\"font-size: 1.07rem;\">Product Information&nbsp;</b><br></p><p>Milk : Goat \n</p><p>Unpateurised : Yes (Thermised) \n</p><p>Rennet : Vegetarian \n</p><p>Style : Soft \n</p><p>Weight : 125g / 230g \n</p><p>Origin: Somerset</p>",
           "_tags": [
             "Theme"
           ],
@@ -3603,7 +3606,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "WHITE WOOD ",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -3632,7 +3635,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -3737,20 +3740,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1487632009275-500x335.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1487632009275-500x335-500x335.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-975-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-975-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-509-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-509-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -3766,7 +3769,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -3864,7 +3867,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "EVE",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -3893,7 +3896,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -3998,20 +4001,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1487632009275-500x335.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1487632009275-500x335-500x335.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-348-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-348-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-354-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-354-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -4027,7 +4030,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -4125,7 +4128,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "TOR",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -4154,7 +4157,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -4259,48 +4262,48 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1487632009275-500x335.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1487632009275-500x335-500x335.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0195-2-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0195-2-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tor-sunset-copy-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tor-sunset-copy-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-950-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-950-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/whitelakecheese-35-2000x1339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whitelakecheese-35-2000x1339-800x536.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670-800x536.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669-800x535.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/rachels-1000x714.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rachels-1000x714-800x543.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
               }
             ]
           },
@@ -4318,7 +4321,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Product Information\r</b></p><p>Milk : Goat \r</p><p>Unpateurised : Yes (Thermised) \r</p><p>Rennet : Vegetarian \r</p><p>Style : Soft \r</p><p>Weight : 200g \r</p><p>Origin: Somerset\r</p><p><b>\r</b></p><p><b>Awards\r</b></p><p>2015 British Cheese Awards - Best Fresh Cheese \r</p><p>2015 British Cheese Awards - Best Goat Cheese \r</p><p>2015 British Cheese Awards - Gold \r</p><p>2015 World Cheese Awards - Bronze&nbsp;</p>",
+          "text": "<p><b>Product Information\n</b></p><p>Milk : Goat \n</p><p>Unpateurised : Yes (Thermised) \n</p><p>Rennet : Vegetarian \n</p><p>Style : Soft \n</p><p>Weight : 200g \n</p><p>Origin: Somerset\n</p><p><b>\n</b></p><p><b>Awards\n</b></p><p>2015 British Cheese Awards - Best Fresh Cheese \n</p><p>2015 British Cheese Awards - Best Goat Cheese \n</p><p>2015 British Cheese Awards - Gold \n</p><p>2015 World Cheese Awards - Bronze&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -4386,7 +4389,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "DRIFTWOOD",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -4415,7 +4418,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -4520,48 +4523,48 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1487632009275-500x335.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1487632009275-500x335-500x335.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-522-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-522-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-534-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-534-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-552-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-552-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/whitelakecheese-5-2000x1339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whitelakecheese-5-2000x1339-800x536.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670-800x536.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669-800x535.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/rachels-1000x714.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rachels-1000x714-800x543.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
               }
             ]
           },
@@ -4579,7 +4582,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Product Information\r</b></p><p>Milk : Goat \r</p><p>Unpateurised : Yes (Thermised) \r</p><p>Rennet : Vegetarian \r</p><p>Style : Soft \r</p><p>Weight : 215g \r</p><p>Origin: Somerset\r</p><p><b>\r</b></p><p><b>Awards\r</b></p><p>2014 World Cheese Awards – Gold \r</p><p>2015 World Cheese Awards – Bronze</p>",
+          "text": "<p><b>Product Information\n</b></p><p>Milk : Goat \n</p><p>Unpateurised : Yes (Thermised) \n</p><p>Rennet : Vegetarian \n</p><p>Style : Soft \n</p><p>Weight : 215g \n</p><p>Origin: Somerset\n</p><p><b>\n</b></p><p><b>Awards\n</b></p><p>2014 World Cheese Awards – Gold \n</p><p>2015 World Cheese Awards – Bronze</p>",
           "_tags": [
             "Theme"
           ],
@@ -4647,7 +4650,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "WHITE HEART ",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -4676,7 +4679,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -4781,12 +4784,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1487632009275-500x335.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1487632009275-500x335-500x335.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-956-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-956-2000x1333-800x542.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -4798,7 +4801,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -4908,7 +4911,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "WHITE NANCY / LONG BOW ",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -4937,7 +4940,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -5042,8 +5045,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1487632009275-500x335.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1487632009275-500x335-500x335.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-512-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-512-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/whitelakecheese-34-2000x1339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whitelakecheese-34-2000x1339-800x536.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -5054,8 +5069,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whitelakecheese-31-2000x1339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whitelakecheese-31-2000x1339-800x536.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -5066,20 +5081,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669-800x535.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/rachels-1000x714.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rachels-1000x714-800x543.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-955-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-955-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -5101,7 +5104,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Product Information\r</b></p><p><b>\r</b><span style=\"font-size: 1.07rem;\">Milk : Goat &nbsp;</span></p><p>Unpateurised : Yes (Thermised) \r</p><p>Rennet : Vegetarian \r</p><p>Style : Soft \r</p><p>Weight : 500g (White Nancy) / 800g (Long Bow) \r</p><p>Origin: Somerset</p>",
+          "text": "<p><b>Product Information\n</b></p><p><b>\n</b><span style=\"font-size: 1.07rem;\">Milk : Goat &nbsp;</span></p><p>Unpateurised : Yes (Thermised) \n</p><p>Rennet : Vegetarian \n</p><p>Style : Soft \n</p><p>Weight : 500g (White Nancy) / 800g (Long Bow) \n</p><p>Origin: Somerset</p>",
           "_tags": [
             "Theme"
           ],
@@ -5169,7 +5172,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "PAVÉ COBBLE",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -5198,7 +5201,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -5303,48 +5306,48 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1487632009275-500x335.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1487632009275-500x335-500x335.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pave-2-2000x1339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pave-2-2000x1339-800x536.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/whitelakecheese-40-2000x1339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whitelakecheese-40-2000x1339-800x536.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/whitelakecheese-49-2000x1339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whitelakecheese-49-2000x1339-800x536.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/whitelakecheese-39-2000x1339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whitelakecheese-39-2000x1339-800x536.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670-800x536.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669-800x535.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/rachels-1000x714.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rachels-1000x714-800x543.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
               }
             ]
           },
@@ -5362,7 +5365,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Product Information\r</b></p><p>Milk : Sheep \r</p><p>Unpateurised : Yes (Thermised) \r</p><p>Rennet : Vegetarian \r</p><p>Style : Soft \r</p><p>Weight : 200g \r</p><p>Origin: Somerset\r</p><p><b>\r</b></p><p><b>Awards\r</b></p><p>British Cheese Awards Supreme Champion, \r</p><p>Best Fresh Cheese, Best English Cheese &amp; Best Specialist Cheese Maker</p>",
+          "text": "<p><b>Product Information\n</b></p><p>Milk : Sheep \n</p><p>Unpateurised : Yes (Thermised) \n</p><p>Rennet : Vegetarian \n</p><p>Style : Soft \n</p><p>Weight : 200g \n</p><p>Origin: Somerset\n</p><p><b>\n</b></p><p><b>Awards\n</b></p><p>British Cheese Awards Supreme Champion, \n</p><p>Best Fresh Cheese, Best English Cheese &amp; Best Specialist Cheese Maker</p>",
           "_tags": [
             "Theme"
           ],
@@ -5430,7 +5433,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "LITTLE SHE ",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -5459,7 +5462,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -5564,12 +5567,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1487632009275-500x335.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1487632009275-500x335-500x335.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0937-2-2000x1344.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0937-2-2000x1344-800x538.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -5581,7 +5584,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -5720,7 +5723,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -5825,20 +5828,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1487632009275-500x335.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1487632009275-500x335-500x335.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscf2250-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscf2250-1-2000x1500-800x557.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whitelakecheese-9-2000x1339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whitelakecheese-9-2000x1339-800x536.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -5854,7 +5857,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -5981,7 +5984,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -6086,48 +6089,48 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1487632009275-500x335.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1487632009275-500x335-500x335.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whitelakecheese-55-2000x1339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whitelakecheese-55-2000x1339-800x536.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/whitelakecheese-58-2000x1339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whitelakecheese-58-2000x1339-800x536.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-935-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-935-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/whitelakecheese-12-2000x1339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whitelakecheese-12-2000x1339-800x536.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670-800x536.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669-800x535.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/rachels-1000x714.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rachels-1000x714-800x543.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
               }
             ]
           },
@@ -6242,7 +6245,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#cccccc",
@@ -6347,20 +6350,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1487632009275-500x335.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1487632009275-500x335-500x335.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-743-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-743-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -6371,8 +6362,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669-800x535.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-784-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-784-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -6388,7 +6379,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
@@ -6467,6 +6458,267 @@
             }
           },
           "_anchor": "contacts4-4g"
+        }
+      ]
+    },
+    "page24.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "GOAT CURD",
+        "order": 8
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "6",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "GOAT CURD",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4l"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#cccccc",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">GOAT CHEESES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">COW CHEESES </a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">SHEEP CHEESES</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ORDERS &amp; ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>Stockists</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>About us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>Find us at a market</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Mail order</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b3b3b3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c4c4c4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            ".btn": {
+              "font-size": "10px"
+            },
+            "SPAN": {
+              "font-size": "25px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-png-556x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4m"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-250-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-250-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-244-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-244-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-258-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-258-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-307-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-307-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-4n"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b style=\"font-size: 1.07rem;\">Product Information&nbsp;</b><br></p><p>Milk : Goat \n</p><p>Unpateurised : Yes (Raw) \n</p><p>Rennet : Animal \n</p><p>Style : Semi-Hard, Washed Rind (Somerset Cider Brandy) \n</p><p>Weight : 250g / 2kg \n</p><p>Origin: Somerset\n</p><p><b>\n</b></p><p><b>Awards\n</b></p><p>2014 - World Cheese Awards - Gold \n</p><p>2015 - British Cheese Awards - Bronze</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4o"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: whitelakeorders@gmail.com<br>\nPhone: 01749 831527.<br>Contact Fourm <a href=\"page5.html\">Click Here</a><br><br>© All Rights Reserved To Nossidda Productions<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li><li><a href=\"page4.html\">Mail Orders</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "addisonbirt1968@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts4-4p"
         }
       ]
     }
